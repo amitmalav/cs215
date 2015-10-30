@@ -1,0 +1,11 @@
+AG.LND.TOTL.K2	land area (sq. km)	land area	square kilometre	sq km 	square miles	acre
+BN.KLT.DINV.CD	foreign direct investment	net (bop, current us$)	fdi	investment	foreign exchange
+BX.GSR.MRCH.CD	goods export	goods exports (bop, current us$)	trade	export	tonne	quintal	shipment	market	product
+EG.ELC.PROD.KH	electricity production	electricity production (kwh)	kilowatt-hour	kwh	electricity	watt
+EN.ATM.CO2E.KT	co2 emissions	co2 emissions (kt)	kiloton	concentration	emission	carbon dioxide
+EP.PMP.DESL.CD	diesel fuel price	pump price for diesel fuel (us$ per liter)	litre	price	petrol	diesel	fuel
+FP.CPI.TOTL.ZG	inflation	inflation, consumer prices (annual %)	consumer
+IT.NET.USER.P2	internet users	internet users (per 100 people)	internet	user	web	online
+NY.GDP.MKTP.CD	gross domestic product	gdp (current us$)	growth
+SP.DYN.LE00.IN	life expectancy at birth	life expectancy at birth, total (years)	life	expectancy	span	age
+SP.POP.TOTL	population	population (total)	people	resident	citizen
